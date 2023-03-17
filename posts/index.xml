@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Starless Void - Adnan&#39;s boring thoughts</title>
+    <title>Posts on Starless Void - Adnane&#39;s boring thoughts</title>
     <link>https://ghostsdontsleep.github.io/posts/</link>
-    <description>Recent content in Posts on Starless Void - Adnan&#39;s boring thoughts</description>
+    <description>Recent content in Posts on Starless Void - Adnane&#39;s boring thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 11:22:49 +0100</lastBuildDate><atom:link href="https://ghostsdontsleep.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Mar 2023 11:55:40 +0100</lastBuildDate><atom:link href="https://ghostsdontsleep.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://ghostsdontsleep.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 15 Mar 2023 11:22:49 +0100</pubDate>
+      <title>Whoami</title>
+      <link>https://ghostsdontsleep.github.io/posts/whoami/</link>
+      <pubDate>Fri, 17 Mar 2023 11:55:40 +0100</pubDate>
       
-      <guid>https://ghostsdontsleep.github.io/posts/my-first-post/</guid>
-      <description>This is a post</description>
+      <guid>https://ghostsdontsleep.github.io/posts/whoami/</guid>
+      <description>Hi, my name&amp;rsquo;s Adnane, and I&amp;rsquo;m a 22-year-old data engineer. I&amp;rsquo;m passionate about music, learning new languages, and computers (those are the ones I can think of&amp;hellip;). Favorite food? Noodles. Favorite show? Mindhunter. Favorite website? Reddit!!!
+I know this is the internet, and one should be cautious about what information he provides about himself, right? Well, no actually, the internet has already enough information about you (besides your darkest deepest secrets).</description>
     </item>
     
   </channel>
