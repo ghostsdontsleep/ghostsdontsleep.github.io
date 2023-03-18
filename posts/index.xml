@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Starless Void - Adnane&#39;s boring thoughts</title>
+    <title>Posts on Adnane&#39;s Boring World</title>
     <link>https://ghostsdontsleep.github.io/posts/</link>
-    <description>Recent content in Posts on Starless Void - Adnane&#39;s boring thoughts</description>
+    <description>Recent content in Posts on Adnane&#39;s Boring World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2023 11:55:40 +0100</lastBuildDate><atom:link href="https://ghostsdontsleep.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Mar 2023 18:59:29 +0100</lastBuildDate><atom:link href="https://ghostsdontsleep.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why are some people good ?</title>
+      <link>https://ghostsdontsleep.github.io/posts/post2/</link>
+      <pubDate>Fri, 17 Mar 2023 18:59:29 +0100</pubDate>
+      
+      <guid>https://ghostsdontsleep.github.io/posts/post2/</guid>
+      <description>I guess you would much prefer if the title was &amp;ldquo;Why are some people bad ?&amp;rdquo;, this is because we often see questions such as &amp;ldquo;Why are some people evil ?&amp;rdquo;.
+We are far more likely to question ourselves &amp;ldquo;Am i a bad person ?&amp;rdquo; rather than &amp;ldquo;Am i a good person ?&amp;rdquo;. Humans give more attention to bad things, and this might be a natural defense mechanism, it&amp;rsquo;s like the brain tries to anticipate bad scenarios to keep you alerted n&#39; help you survive.</description>
+    </item>
+    
     <item>
       <title>Whoami</title>
       <link>https://ghostsdontsleep.github.io/posts/whoami/</link>
       <pubDate>Fri, 17 Mar 2023 11:55:40 +0100</pubDate>
       
       <guid>https://ghostsdontsleep.github.io/posts/whoami/</guid>
-      <description>Hi, my name&amp;rsquo;s Adnane, and I&amp;rsquo;m a 22-year-old data engineer. I&amp;rsquo;m passionate about music, learning new languages, and computers (those are the ones I can think of&amp;hellip;). Favorite food? Noodles. Favorite show? Mindhunter. Favorite website? Reddit!!!
+      <description>Hi, my name&amp;rsquo;s Adnane, I&amp;rsquo;m 22 years old and i work as a Data Engineer. I&amp;rsquo;m passionate about Music, Learning new languages, and Computers (those are the ones I can think of&amp;hellip;). Favorite food ? Noodles. Favorite show ? Mindhunter. Favorite website ? Reddit.
 I know this is the internet, and one should be cautious about what information he provides about himself, right? Well, no actually, the internet has already enough information about you (besides your darkest deepest secrets).</description>
     </item>
     
